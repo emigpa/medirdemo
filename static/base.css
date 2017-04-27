@@ -1,0 +1,115 @@
+.flex-evadir {
+  display: flex;
+  flex-direction: column;
+  /*min-height: 100vh;*/
+  justify-content: center;
+}
+.flex-evadir-search {
+  /*width: 50%;*/
+  margin: 10px;
+  align-self: center;
+}
+.flex-evadir-tabla {
+  display: flex;
+  /*flex-direction: column;*/
+  flex-wrap: wrap;
+  justify-content: center;
+  width: 100%;
+  /*margin: 10px;*/
+}
+.flex-cvstat {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  min-width: 100vw;
+  /*margin-top: 100px;*/
+  /*padding-left: 20px;*/
+  /*padding-right: 20px;*/
+  /*align-items: center;*/
+    /*align-items: center;*/
+  }
+.flex-child {
+    width: 20%;
+    flex-grow: 1;
+    /*align-self: center;*/
+    /*width: 33.333333%;*/
+    /*border: 2px solid red;*/
+    margin: 10px;
+  }
+.flex-charts {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  /*width: 50%;*/
+  /*flex-grow: 1;*/
+  align-content: center;
+  justify-content: center;
+  /*flex-wrap: wrap;*/
+  /*width: 33.333333%;*/
+  /*border: 2px solid red;*/
+  /*flex-grow: 1;*/
+  margin: 10px;
+}
+.flex-chart {
+  flex-grow: 1;
+  width: 60%;
+  margin: 10px;
+  align-self: center;
+}
+.flex-legend {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 60px;
+  margin-right: 60px;
+}
+.flex-listas {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.flex-lista {
+  flex-grow: 1;
+  flex-basis: 33%;
+}
+
+.awesomplete {
+  width: 400px;
+  border: 1px solid white;
+  background-color: white;
+  color: black;
+}
+div.awesomplete > ul {
+  color: black;
+}
+/*.app {
+  min-width: 100vw;
+}*/
+.md-table {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  align-content: center;
+  flex-wrap: wrap;
+}
+.md-table-cell {
+  flex-grow: 1;
+}
+.flex-nave {
+  display: flex;
+  justify-content: space-between;
+  align-content: center;
+}
+.flex-nave-item:nth-child(1) {
+  flex-basis: 15%;
+}
+
+@media only screen and (min-width: 801px) {
+  .flex-charts {
+    flex-direction: row;
+    width: 90%;
+    align-self: center;
+  }
+  .flex-chart {
+    width: 30%;
+  }
+}

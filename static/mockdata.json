@@ -1,0 +1,385 @@
+[
+  {
+    "articulosLength": 549,
+    "partesDeLibroLength": 137,
+    "librosLength": 49,
+    "trabajosEnEventosCTPublicadosLength": 233,
+    "demasProduccionesCTLength": 61,
+    "articulos": [
+      {
+        "persona_id": 1,
+        "apellido": "LOPEZ",
+        "nombre": "CARLOS",
+        "cuil": "10101010",
+        "organizacion_id": 1,
+        "organizacion": "Instituto",
+        "id": 1,
+        "autor": "LOPEZ, PEREZ",
+        "produccion": "Movimientos peristálticos en la digestión bovina"
+      },
+      {
+        "persona_id": 2,
+        "apellido": "PEREZ",
+        "nombre": "LUIS",
+        "cuil": "20202020",
+        "organizacion_id": 2,
+        "organizacion": "Escuela",
+        "id": 2,
+        "autor": "PEREZ, RAMOS",
+        "produccion": "Desarrollo de las sociedades primitivas: el mito de Enkidu"
+      },
+      {
+        "persona_id": 3,
+        "apellido": "SCHWARTZMAN",
+        "nombre": "CARLA",
+        "cuil": "30303030",
+        "organizacion_id": 3,
+        "organizacion": "Facultad",
+        "id": 3,
+        "autor": "SCHWARTZMAN C., BLANCO P.",
+        "produccion": "Mecanismos de imputación fiscal"
+      },
+      {
+        "persona_id": 3,
+        "apellido": "SCHWARTZMAN",
+        "nombre": "CARLA",
+        "cuil": "30303030",
+        "organizacion_id": 3,
+        "organizacion": "Facultad",
+        "id": 16,
+        "autor": "SCHWARTZMAN C.",
+        "produccion": "Economía en épocas de default."
+      },
+      {
+        "persona_id": 3,
+        "apellido": "SCHWARTZMAN",
+        "nombre": "CARLA",
+        "cuil": "30303030",
+        "organizacion_id": 3,
+        "organizacion": "Facultad",
+        "id": 17,
+        "autor": "SCHWARTZMAN C.",
+        "produccion": "Superavit y reestructuración de deuda."
+      }
+    ],
+    "partesDeLibro": [
+      {
+        "persona_id": 1,
+        "apellido": "LOPEZ",
+        "nombre": "CARLOS",
+        "cuil": "10101010",
+        "organizacion_id": 1,
+        "organizacion": "Instituto",
+        "id": 4,
+        "autor": "LOPEZ C.",
+        "produccion": "Cattle and beyond!"
+      },
+      {
+        "persona_id": 1,
+        "apellido": "LOPEZ",
+        "nombre": "CARLOS",
+        "cuil": "10101010",
+        "organizacion_id": 1,
+        "organizacion": "Instituto",
+        "id": 18,
+        "autor": "LOPEZ C.",
+        "produccion": "Breeding process in captivity."
+      },
+      {
+        "persona_id": 2,
+        "apellido": "PEREZ",
+        "nombre": "LUIS",
+        "cuil": "20202020",
+        "organizacion_id": 2,
+        "organizacion": "Escuela",
+        "id": 5,
+        "autor": "PEREZ L.; RAMOS G.",
+        "produccion": "Mitos Babilónicos"
+      },
+      {
+        "persona_id": 3,
+        "apellido": "SCHWARTZMAN",
+        "nombre": "CARLA",
+        "cuil": "30303030",
+        "organizacion_id": 3,
+        "organizacion": "Facultad",
+        "id": 6,
+        "autor": "SCHWARTZMAN C.",
+        "produccion": "Debe y haber: el libro diario"
+      }
+    ],
+    "libros": [
+      {
+        "persona_id": 1,
+        "apellido": "LOPEZ",
+        "nombre": "CARLOS",
+        "cuil": "10101010",
+        "organizacion_id": 1,
+        "organizacion": "Instituto",
+        "id": 7,
+        "autor": "LOPEZ C.",
+        "produccion": "Manual pecunario 2"
+      },
+      {
+        "persona_id": 2,
+        "apellido": "PEREZ",
+        "nombre": "LUIS",
+        "cuil": "20202020",
+        "organizacion_id": 2,
+        "organizacion": "Escuela",
+        "id": 8,
+        "autor": "PEREZ L.; RAMOS G.",
+        "produccion": "Babilonia infante"
+      },
+      {
+        "persona_id": 3,
+        "apellido": "SCHWARTZMAN",
+        "nombre": "CARLA",
+        "cuil": "30303030",
+        "organizacion_id": 3,
+        "organizacion": "Facultad",
+        "id": 9,
+        "autor": "SCHWARTZMAN C.; HEINZ K.",
+        "produccion": "Asientos efectivos"
+      },
+      {
+        "persona_id": 3,
+        "apellido": "SCHWARTZMAN",
+        "nombre": "CARLA",
+        "cuil": "30303030",
+        "organizacion_id": 3,
+        "organizacion": "Facultad",
+        "id": 23,
+        "autor": "SCHWARTZMAN C.",
+        "produccion": "Reglamentos impositivos."
+      },
+      {
+        "persona_id": 3,
+        "apellido": "SCHWARTZMAN",
+        "nombre": "CARLA",
+        "cuil": "30303030",
+        "organizacion_id": 3,
+        "organizacion": "Facultad",
+        "id": 19,
+        "autor": "SCHWARTZMAN C.",
+        "produccion": "Retenciones en el mercado neoliberal."
+      }
+    ],
+    "trabajosEnEventosCTPublicados": [
+      {
+        "persona_id": 1,
+        "apellido": "LOPEZ",
+        "nombre": "CARLOS",
+        "cuil": "10101010",
+        "organizacion_id": 1,
+        "organizacion": "Instituto",
+        "id": 10,
+        "autor": "LOPEZ C.; GIMENEZ M.",
+        "produccion": "Sobre ganado: una cuestión de pesos."
+      },
+      {
+        "persona_id": 2,
+        "apellido": "PEREZ",
+        "nombre": "LUIS",
+        "cuil": "20202020",
+        "organizacion_id": 2,
+        "organizacion": "Escuela",
+        "id": 11,
+        "autor": "PEREZ L.; RAMOS G.; GOMEZ H.",
+        "produccion": "Peribiblos"
+      },
+      {
+        "persona_id": 2,
+        "apellido": "PEREZ",
+        "nombre": "LUIS",
+        "cuil": "20202020",
+        "organizacion_id": 2,
+        "organizacion": "Escuela",
+        "id": 20,
+        "autor": "PEREZ L.; GOMEZ H.",
+        "produccion": "Gramática del idioma indoeuropeo."
+      },
+      {
+        "persona_id": 2,
+        "apellido": "PEREZ",
+        "nombre": "LUIS",
+        "cuil": "20202020",
+        "organizacion_id": 2,
+        "organizacion": "Escuela",
+        "id": 21,
+        "autor": "PEREZ L.",
+        "produccion": "Pronombres, usos en lenguas pluralistas."
+      },
+      {
+        "persona_id": 3,
+        "apellido": "SCHWARTZMAN",
+        "nombre": "CARLA",
+        "cuil": "30303030",
+        "organizacion_id": 3,
+        "organizacion": "Facultad",
+        "id": 12,
+        "autor": "SCHWARTZMAN C.; HEINZ K.",
+        "produccion": "Lo que se debe no está en el haber: anécdotas de un contador."
+      }
+    ],
+    "demasProduccionesCT": [
+      {
+        "persona_id": 1,
+        "apellido": "LOPEZ",
+        "nombre": "CARLOS",
+        "cuil": "10101010",
+        "organizacion_id": 1,
+        "organizacion": "Instituto",
+        "id": 13,
+        "autor": "LOPEZ C.",
+        "produccion": "Emisiones de metano: el asesino silente."
+      },
+      {
+        "persona_id": 2,
+        "apellido": "PEREZ",
+        "nombre": "LUIS",
+        "cuil": "20202020",
+        "organizacion_id": 2,
+        "organizacion": "Escuela",
+        "id": 14,
+        "autor": "PEREZ L.",
+        "produccion": "Mitos para colorear: Eridu."
+      },
+      {
+        "persona_id": 3,
+        "apellido": "SCHWARTZMAN",
+        "nombre": "CARLA",
+        "cuil": "30303030",
+        "organizacion_id": 3,
+        "organizacion": "Facultad",
+        "id": 15,
+        "autor": "SCHWARTZMAN C.",
+        "produccion": "Contaduros."
+      }
+    ],
+    "personalEnMemoriaLength": 693,
+    "personalNuloLength": 159,
+    "personalRelevanteLength": 534,
+    "personalProductivoLength": 337,
+    "personalEnMemoria": [
+      {
+        "persona_id": 1,
+        "apellido": "LOPEZ",
+        "nombre": "CARLOS",
+        "cuil": "10101010",
+        "organizacion_id": 1,
+        "organizacion": "Instituto"
+      },
+      {
+        "persona_id": 2,
+        "apellido": "PEREZ",
+        "nombre": "LUIS",
+        "cuil": "20202020",
+        "organizacion_id": 2,
+        "organizacion": "Escuela",
+        "id": 2
+      },
+      {
+        "persona_id": 3,
+        "apellido": "SCHWARTZMAN",
+        "nombre": "CARLA",
+        "cuil": "30303030",
+        "organizacion_id": 3,
+        "organizacion": "Facultad"
+      },
+      {
+        "persona_id": 4,
+        "apellido": "OMPLETO",
+        "nombre": "NICO",
+        "organizacion": "Escuela",
+        "organizacion_id": 2
+      },
+      {
+        "persona_id": 5,
+        "apellido": "MISHA",
+        "nombre": "VANIA",
+        "cuil": "50505050",
+        "organizacion_id": 1,
+        "organizacion": "Instituto"
+      },
+      {
+        "persona_id": 6,
+        "apellido": "MATSUKAWA",
+        "nombre": "KEIKO",
+        "cuil": "60606060",
+        "organizacion_id": 2,
+        "organizacion": "Escuela"
+      }
+    ],
+    "personalNulo": [
+      {
+        "apellido": "OMPLETO",
+        "nombre": "NICO",
+        "organizacion": "Escuela",
+        "organizacion_id": 2
+      }
+    ],
+    "personalRelevante": [
+      {
+        "persona_id": 1,
+        "apellido": "LOPEZ",
+        "nombre": "CARLOS",
+        "cuil": "10101010",
+        "organizacion_id": 1,
+        "organizacion": "Instituto"
+      },
+      {
+        "persona_id": 2,
+        "apellido": "PEREZ",
+        "nombre": "LUIS",
+        "cuil": "20202020",
+        "organizacion_id": 2,
+        "organizacion": "Escuela",
+        "id": 2
+      },
+      {
+        "persona_id": 3,
+        "apellido": "SCHWARTZMAN",
+        "nombre": "CARLA",
+        "cuil": "30303030",
+        "organizacion_id": 3,
+        "organizacion": "Facultad"
+      },
+      {
+        "persona_id": 5,
+        "apellido": "MISHA",
+        "nombre": "VANIA",
+        "cuil": "50505050",
+        "organizacion_id": 1,
+        "organizacion": "Instituto"
+      }
+    ],
+    "personalProductivo": [
+      {
+        "persona_id": 1,
+        "apellido": "LOPEZ",
+        "nombre": "CARLOS",
+        "cuil": "10101010",
+        "organizacion_id": 1,
+        "organizacion": "Instituto"
+      },
+      {
+        "persona_id": 2,
+        "apellido": "PEREZ",
+        "nombre": "LUIS",
+        "cuil": "20202020",
+        "organizacion_id": 2,
+        "organizacion": "Escuela",
+        "id": 2
+      },
+      {
+        "persona_id": 3,
+        "apellido": "SCHWARTZMAN",
+        "nombre": "CARLA",
+        "cuil": "30303030",
+        "organizacion_id": 3,
+        "organizacion": "Facultad"
+      }
+    ]
+  }
+]
